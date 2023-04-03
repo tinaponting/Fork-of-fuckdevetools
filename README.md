@@ -19,3 +19,4 @@ Ctrl+S
 Ctr + U	
 
 * Works on wordpress and node js.
+With plugin: copyproofs blog, updated. 
