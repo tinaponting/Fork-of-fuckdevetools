@@ -14,15 +14,8 @@ Ctrl+j
 
 
 
-And no: solution to: yet -so far....
+And maybe: 
 Ctrl+S
 Ctr + U	
-Chrome DevTools
-Inspect Element/Developer Tool
-
-
-
-**** Set in footer: 
-<script src="./fuckdevtools.js"></script>
 
 * Works on wordpress and node js.
