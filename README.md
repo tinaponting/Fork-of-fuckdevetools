@@ -11,12 +11,10 @@ Ctrl+Shift+I
 Ctrl+j
 
 
+* Updated: tested on several blogs, works fine.
 
 
-
-And maybe: 
-Ctrl+S
-Ctr + U	
+No  (230412): Disable: webtools yet, someone?  Tried some scripts that not working.	
 
 * Works on wordpress and node js.
 With plugin: copyproofs blog, updated. 
