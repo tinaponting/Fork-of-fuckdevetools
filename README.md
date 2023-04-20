@@ -19,3 +19,7 @@ Ctrl+j
 * Works on wordpress and node js.
 With plugin: copyproofs blog, updated. 
 Not working on: Devtools - still visble!
+
+To use:  
+Take the plugin, copyproofs, in to plugins folder, activate.
+Take the choosen script, in your root, set: 644. //Done:)
